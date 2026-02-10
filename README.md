@@ -21,8 +21,8 @@ El flujo es:
 4. Enviar el frame por “serial” (aquí es stdout)
 5. El dashboard recibe esos frames
 6. Extrae el JSON y lo parsea
+7. Muestra los valores en pantalla
 
-Muestra los valores en pantalla
 ## Simulador de Compilación de Firmware
 ```bash
 cd firmware_sim
