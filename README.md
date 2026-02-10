@@ -13,6 +13,7 @@ El programa simula un dispositivo embebido que hace telemetría, como por ejempl
 - un controlador industrial
 - un sensor IoT
 - un módulo de monitoreo de baterías
+  
 El flujo es:
 1. Generar datos simulados (como sensores)
 2. Convertir esos datos a JSON
